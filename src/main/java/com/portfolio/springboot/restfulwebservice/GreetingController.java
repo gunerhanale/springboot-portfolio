@@ -1,4 +1,4 @@
-package com.portfolio.springboot;
+package com.portfolio.springboot.restfulwebservice;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;

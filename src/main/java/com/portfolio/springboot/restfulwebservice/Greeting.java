@@ -1,4 +1,4 @@
-package com.portfolio.springboot;
+package com.portfolio.springboot.restfulwebservice;
 
 public class Greeting {
 
