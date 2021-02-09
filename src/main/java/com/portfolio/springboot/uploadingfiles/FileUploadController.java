@@ -15,7 +15,7 @@ import java.io.IOException;
 import java.util.stream.Collectors;
 
 
-@Controller
+//@Controller
 public class FileUploadController {
 
     private final StorageService storageService;
