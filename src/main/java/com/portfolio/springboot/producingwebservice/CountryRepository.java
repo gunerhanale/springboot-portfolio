@@ -4,8 +4,8 @@ import javax.annotation.PostConstruct;
 import java.util.HashMap;
 import java.util.Map;
 
-import com.portfolio.springboot.producingwebservice.gs_producing_web_service.Country;
-import com.portfolio.springboot.producingwebservice.gs_producing_web_service.Currency;
+import com.portfolio.springboot.producingwebservice.io.spring.guides.gs_producing_web_service.Country;
+import com.portfolio.springboot.producingwebservice.io.spring.guides.gs_producing_web_service.Currency;
 
 import org.springframework.stereotype.Component;
 import org.springframework.util.Assert;

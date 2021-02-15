@@ -1,7 +1,7 @@
 package com.portfolio.springboot.producingwebservice;
 
-import com.portfolio.springboot.producingwebservice.gs_producing_web_service.GetCountryRequest;
-import com.portfolio.springboot.producingwebservice.gs_producing_web_service.GetCountryResponse;
+import com.portfolio.springboot.producingwebservice.io.spring.guides.gs_producing_web_service.GetCountryRequest;
+import com.portfolio.springboot.producingwebservice.io.spring.guides.gs_producing_web_service.GetCountryResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.ws.server.endpoint.annotation.Endpoint;
 import org.springframework.ws.server.endpoint.annotation.PayloadRoot;

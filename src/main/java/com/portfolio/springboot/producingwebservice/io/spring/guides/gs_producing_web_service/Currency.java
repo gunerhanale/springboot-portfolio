@@ -6,7 +6,7 @@
 //
 
 
-package com.portfolio.springboot.producingwebservice.gs_producing_web_service;
+package com.portfolio.springboot.producingwebservice.io.spring.guides.gs_producing_web_service;
 
 import javax.xml.bind.annotation.XmlEnum;
 import javax.xml.bind.annotation.XmlType;
