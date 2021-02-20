@@ -13,7 +13,7 @@ public class SimpleBookRepository implements BookRepository {
         return new Book(isbn, "Some book");
     }
 
-    // Don't do this at home
+    // Don't do this at office
     private void simulateSlowService() {
         try {
             long time = 3000L;
